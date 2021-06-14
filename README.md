@@ -166,3 +166,7 @@ If all goes well you should now have a command prompt just like in vagrant and j
 ```bash
 ubuntu@ip-172-31-45-161:~$
 ```
+#### Next
+
+- Transfer data from your Machine to AWS EC2 instace
+- `scp -r /local/directory/ ec2@ec2_ip:/remote/directory/`
