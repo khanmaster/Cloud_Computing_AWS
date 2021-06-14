@@ -33,8 +33,6 @@ Let's get started.
 
 You will have all been set up with an account that allows you to access the Sparta area of AWS. You can log in here:
 
-[http://sparta-devops.signin.aws.amazon.com/console](http://sparta-devops.signin.aws.amazon.com/console)
-
 
 While the steps for creating a virtual machine on AWS will be different than those for Vagrant the concepts are the same. Try to match them up with what we did in the last lesson.
 
